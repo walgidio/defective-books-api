@@ -1,6 +1,6 @@
 # 📚 Defective Books Challenge
 
-REST API built with Java and Spring Boot to manage **books** and **defective editions** in a stationery context. The API supports creating, reading, updating, and deleting books, as well as registering and listing defective editions.
+REST API built with Java and Spring Boot to manage **books** and **defective editions**. The API supports creating, reading, updating, and deleting books, as well as registering and listing defective editions.
 
 ## 🚀 Technologies Used
 
